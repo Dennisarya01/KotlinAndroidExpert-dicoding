@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">FootballApps</string>
+
+    <array name="club_image">
+        <item>@drawable/img_liverpool</item>
+        <item>@drawable/img_city</item>
+        <item>@drawable/img_leicester</item>
+        <item>@drawable/img_chelsea</item>
+        <item>@drawable/img_arsenal</item>
+        <item>@drawable/img_crystalpalace</item>
+        <item>@drawable/img_mu</item>
+        <item>@drawable/img_sheffutd</item>
+        <item>@drawable/img_bournemouth</item>
+        <item>@drawable/img_westham</item>
+        <item>@drawable/img_tottenham</item>
+        <item>@drawable/img_wolves</item>
+        <item>@drawable/img_burnley</item>
+        <item>@drawable/img_brighton</item>
+        <item>@drawable/img_astonvilla</item>
+        <item>@drawable/img_everton</item>
+        <item>@drawable/img_newcastle</item>
+        <item>@drawable/img_southampton</item>
+        <item>@drawable/img_norwich</item>
+        <item>@drawable/img_watford</item>
+    </array>
+
+    <string-array name="club_desc">
+        <item>Liverpool Football Club (dikenal pula sebagai Liverpool atau The Reds) adalah sebuah klub sepak bola asal Inggris yang berbasis di Kota Liverpool. Saat ini Liverpool adalah peserta Liga Utama Inggris. Liverpool juga merupakan juara bertahan Liga Champions UEFA musim 2018–2019</item>
+        <item>Manchester City Football Club (dikenal pula sebagai Man City atau The Citizens) adalah sebuah klub sepak bola profesional dari Inggris yang bermain di Liga Premier Inggris.</item>
+        <item>Leicester City F.C. adalah sebuah tim sepak bola Inggris berbasis di Leicester. Leicester Dikenal juga dengan sebutan The Foxes.</item>
+        <item>Chelsea Football Club adalah sebuah klub sepak bola Inggris yang bermarkas di Fulham, London. Chelsea didirikan pada tahun 1905 dan kini berkompetisi di Liga Utama Inggris.</item>
+        <item>Arsenal Football Club (dikenal pula sebagai Arsenal atau The Gunners) adalah klub sepak bola profesional Inggris yang berbasis di daerah Holloway, London. didirikan pada 1886 dengan nama Dial Square.</item>
+        <item>Crystal Palace Football Club merupakan sebuah tim sepak bola Inggris yang bermarkas di London Borough of Croydon dan didirikan pada tahun 1905.</item>
+        <item>Manchester United Football Club adalah sebuah klub sepak bola profesional Inggris yang berbasis di Old Trafford, Manchester Raya, yang bermain di Liga Inggris.</item>
+        <item>Sheffield United Football Club adalah sebuah tim sepak bola profesional Inggris yang bermarkas di kota Sheffield, Yorkshire Selatan, Inggris. </item>
+        <item>A.F.C. Bournemouth merupakan sebuah klub sepak bola profesional asal Inggris yang saat ini bermain di Liga Primer Inggris.</item>
+        <item>West Ham United Football Club adalah sebuah klub sepak bola Inggris yang bermarkas di London. Seragam mereka berwarna merah-biru.</item>
+        <item>Tottenham Hotspur Football Club adalah klub sepak bola yang berasal dari Tottenham, sebuah daerah yang berada di wilayah utara London. Mereka juga dikenal sebagai Spurs, The Spurs dan Tottenham, sementara penggemar mereka memberi mereka nama the Lilywhites karena seragam tradisional mereka yang berwarna putih.</item>
+        <item>Wolverhampton Wanderers Football Club adalah sebuah klub sepak bola Inggris yang bermarkas di Wolverhampton, Britania Raya yang bermain di Liga Utama Inggris.</item>
+        <item>Burnley Football Club adalah sebuah klub sepak bola Inggris yang bermarkas di Burnley, Lancashire. Klub ini sedang bermain di Liga Utama Inggris, kasta tertinggi sepak bola inggris di musim 2016 sampai 2017 setelah memenangkan liga peringkat kedua yaitu Liga Championship Inggris di musim sebelumnya.</item>
+        <item>Brighton Hove Albion Football Club adalah sebuah klub sepak bola profesional asal Inggris yang berbasis di kota pantai Brighton Hove, di timur Sussex. Sering disebut sebagai Brighton Hove Albion atau hanya sekadar sebagai Brighton.</item>
+        <item>Aston Villa Football Club adalah klub sepak bola profesional yang bermarkas di Villa Park, Birmingham, Inggris. Klub ini bermain di Liga Utama Inggris dan merupakan salah satu klub pendiri Liga Sepak Bola (Football League) pada tahun 1888 serta Liga Utama pada tahun 1992.</item>
+        <item>Everton Football Club adalah sebuah klub sepak bola profesional yang bermarkas di Kota Liverpool, Inggris, dan merupakan klub rival dari klub sekota Liverpool. Didirikan pada tahun 1878 dan menjadi salah satu pendiri dari Liga Sepak Bola (Football League) pada tahun 1888 serta Liga Primer pada tahun 1992.</item>
+        <item>Newcastle United Football Club adalah klub sepak bola profesional Inggris yang berbasis di Newcastle upon Tyne, dan bermain di Liga Utama Inggris, kompetisi tingkat teratas dalam sepak bola Inggris.</item>
+        <item>Southampton Football Club merupakan sebuah tim sepak bola Inggris yang didirikan tahun 1898. Bermarkas di Stadion St Marys, Southampton, Hampshire, Southampton pada musim 2011 sampai 2012 bermain di Football League Championship.</item>
+        <item>Norwich City Football Club adalah sebuah klub sepak bola Inggris yang didirikan pada tahun 1902. Bermarkas di Norwich, Norfolk. Norwich pada musim 2006 sampai 2007 bermain di Liga Championship Inggris.</item>
+        <item>Watford Football Club merupakan tim sepak bola profesional Inggris yang bermarkas di Watford, Hertfordshire, dan bermain di Liga Utama Inggris.</item>
+    </string-array>
+
+    <string-array name="club_name">
+        <item>Liverpool FC</item>
+        <item>Maincester City FC</item>
+        <item>Leicester FC</item>
+        <item>Chelsea FC</item>
+        <item>Arsenal FC</item>
+        <item>Crystal Palace</item>
+        <item>Mancester United FC</item>
+        <item>Sheff United FC</item>
+        <item>Bournemouth FC</item>
+        <item>West Ham FC</item>
+        <item>Tottenham FC</item>
+        <item>Wolves FC</item>
+        <item>Burnley FC</item>
+        <item>Brighton FC</item>
+        <item>Aston Villa FC</item>
+        <item>Everton FC</item>
+        <item>Newcastle FC</item>
+        <item>Southampton FC</item>
+        <item>Norwich FC</item>
+        <item>Watford FC</item>
+    </string-array>
+
+
+</resources>
