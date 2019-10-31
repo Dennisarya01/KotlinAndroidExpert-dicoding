@@ -44,5 +44,12 @@ dependencies {
     implementation "org.jetbrains.anko:anko-support-v4:$anko_version"
     //glide
     implementation "com.github.bumptech.glide:glide:4.7.1"
+    //retrofit
+    implementation 'com.squareup.retrofit2:retrofit:2.5.0'
 
+    implementation 'com.squareup.picasso:picasso:2.71828'
+    implementation 'com.google.code.gson:gson:2.8.6'
+    
+    // RecyclerView-v7
+    implementation "org.jetbrains.anko:anko-recyclerview-v7-coroutines:$anko_version"
 }
